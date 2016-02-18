@@ -1,0 +1,16 @@
+{
+  "name": "bytetesting-client",
+  "author": "Sebastian Parwolowski <sebastian@bitwantsbyte.com>",
+  "description": "Client for ByteTest Server",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "glob": "^7.0.0",
+    "merge": "^1.2.0",
+    "node-zip": "^1.1.1",    
+    "q": "^1.4.1",    
+    "socket.io-client": "^1.4.5"
+  },
+  "bin": "bin/byteclient"
+}
